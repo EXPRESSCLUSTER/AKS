@@ -5,4 +5,4 @@
 - Refer to [Deploy AKS](DeployAKS.md).
 
 ## Deploy Application
-- FIXME
+- Refer to [Deploy Application](DeployApp.md).
